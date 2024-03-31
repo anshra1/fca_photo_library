@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD5_ZeGxeWT9wGNSzecr0TAl9Ww7WaKAoY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>520133562211</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fcaPhotoLibrary</string>
+	<key>PROJECT_ID</key>
+	<string>fca-photo-library</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fca-photo-library.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:520133562211:ios:a1da346b6e2a76fb294d56</string>
+</dict>
+</plist>

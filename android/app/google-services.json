@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520133562211",
+    "project_id": "fca-photo-library",
+    "storage_bucket": "fca-photo-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520133562211:android:9b70ded40c19438f294d56",
+        "android_client_info": {
+          "package_name": "com.example.fca_photo_library"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMDiLvdYBhaBC8_lL7JH7-ed1r9NJzh2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
